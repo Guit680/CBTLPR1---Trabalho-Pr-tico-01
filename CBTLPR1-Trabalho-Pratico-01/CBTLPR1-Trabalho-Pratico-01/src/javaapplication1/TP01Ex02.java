@@ -1,11 +1,11 @@
 package javaapplication1;
 import java.util.Scanner;
+
 /*2. Calcular e exibir a área de um quadrado, a partir do valor de sua aresta que será
 digitado.
 Guilherme Postigo
-Izadora
+Izadora Santos
 */
-
 
 public class TP01Ex02 {
     
