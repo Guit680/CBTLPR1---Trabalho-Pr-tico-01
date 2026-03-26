@@ -1,6 +1,11 @@
 package javaapplication1;
 import java.util.Scanner;
 
+/*7. Calcular e exibir a média geométrica de dois valores quaisquer que serão
+digitados.
+Guilherme Postigo
+Izadora Santos*/
+
 public class TP01Ex07 {
 	public static void main (String [] args){
 	    Scanner scanner = new Scanner (System.in);
