@@ -1,6 +1,11 @@
 package javaapplication1;
 import java.util.Scanner;
 
+/*10. Entrar via teclado com o valor de uma temperatura em graus Celsius, calcular e
+exibir sua temperatura equivalente em Fahrenheit.
+Guilherme Postigo
+Izadora Santos*/
+
 public class TP01Ex10 {
 	public static void main (String [] args){
 	    Scanner scanner = new Scanner (System.in);
