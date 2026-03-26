@@ -1,8 +1,7 @@
 package javaapplication1;
 import java.util.Scanner;
 
-/*
-4. A partir dos valores da base e altura de um triângulo, calcular e exibir sua área.
+/*4. A partir dos valores da base e altura de um triângulo, calcular e exibir sua área.
 Guilherme Postigo
 Izadora Santos*/
 
