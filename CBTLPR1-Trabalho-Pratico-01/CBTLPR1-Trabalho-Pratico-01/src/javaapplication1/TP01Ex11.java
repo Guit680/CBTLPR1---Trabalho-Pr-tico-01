@@ -1,6 +1,10 @@
 package javaapplication1;
 import java.util.Scanner;
 
+/*11. A partir do diâmetro de um círculo que será digitado, calcular e exibir sua área.
+Guilherme Postigo
+Izadora Santos*/
+
 public class TP01Ex11 {
 	public static void main (String [] args){
 	    Scanner scanner = new Scanner (System.in);
