@@ -6,8 +6,6 @@ será digitado.
 Guilherme Postigo
 Izadora Santos*/
 
-
-
 public class TP01Ex05 {
     public static void main (String [] args){
     Scanner scanner = new Scanner (System.in);
