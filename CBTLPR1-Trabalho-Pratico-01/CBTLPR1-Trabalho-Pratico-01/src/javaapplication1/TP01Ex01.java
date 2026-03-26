@@ -1,13 +1,14 @@
 package javaapplication1;
 import java.util.Scanner;
 
-public class TP01Ex01 {
-
 /*1. Entrar via teclado com a base e a altura de um retângulo, calcular e exibir sua
 área.
 Guilherme Postigo
 Izadora Santos
 */
+
+public class TP01Ex01 {
+
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
